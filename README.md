@@ -12,7 +12,7 @@ Rode o `npm install`.
 
 Após o acompanhamento do conteúdo, abra um PR no seu repositório forkado e, se quiser, mergeie para a master, sinta-se a vontade!
 
-**Atenção!** Quando for criar o PR você irá se deparar com essa tela:
+**Atenção!**  Quando for criar o PR você irá se deparar com essa tela:
 
 ![PR do exercício](images/example-pr.png)
 
