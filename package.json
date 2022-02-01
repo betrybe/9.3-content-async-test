@@ -28,7 +28,21 @@
     "mochawesome": "5.0.0",
     "mochawesome-merge": "4.0.3",
     "mochawesome-report-generator": "4.1.0",
+    "node-fetch": "^2.6.7",
     "stylelint": "13.8.0",
     "stylelint-config-standard": "20.0.0"
-  }
+  },
+  "description": "Esse é o repositório para o conteúdo sobre `Jest Assíncrono`.",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phvleite/9.3-content-async-test.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/phvleite/9.3-content-async-test/issues"
+  },
+  "homepage": "https://github.com/phvleite/9.3-content-async-test#readme"
 }
