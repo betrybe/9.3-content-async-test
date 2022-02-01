@@ -1,3 +1,4 @@
+
 const fetchCharacter = async (id) => {
   // Recebemos como parâmetro o id
   try {
