@@ -23,6 +23,7 @@ const fetchCharacter = async (id) => {
 //     .then((result) => result)
 //     .catch((error) => error);
 
+
 //     return promise;
 // };
 
