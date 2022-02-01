@@ -22,7 +22,6 @@ const fetchCharacter = async (id) => {
 //     .then((response) => response.json())
 //     .then((result) => result)
 //     .catch((error) => error);
-
 //     return promise;
 // };
 
