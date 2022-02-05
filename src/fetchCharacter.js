@@ -29,3 +29,4 @@ const fetchCharacter = async (id) => {
 module.exports = {
   fetchCharacter,
 };
+
