@@ -13,7 +13,7 @@ const fetchCharacter = async (id) => {
     // Caso algo aconteça e nossa requisição não seja realizada com sucesso
     // capturamos e retornamos essa exceção.
     return error;
-  }
+  } 
 };
 
 // const fetchCharacter = async (id) => {
