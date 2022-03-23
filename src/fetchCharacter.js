@@ -11,7 +11,7 @@ const fetchCharacter = async (id) => {
     return results;
   } catch (error) {
     // Caso algo aconteça e nossa requisição não seja realizada com sucesso
-    // capturamos e retornamos essa exceção.Aloou
+    // capturamos e retornamos essa exceção.
     return error;
   }
 };
