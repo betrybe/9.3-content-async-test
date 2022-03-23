@@ -1,5 +1,5 @@
 const fetchCharacter = async (id) => {
-  // Recebemos como parâmetro o id
+  // Recebemos como parâmetro o id  
   try {
     const URL = `https://www.superheroapi.com/api.php/4192484924171229/${id}`;
     // Aguardamos a promise do fetch ser resolvida
