@@ -15,6 +15,7 @@ const fetchCharacter = async (id) => {
     return error;
   }
 };
+console.log(fetchCharacter('246'));
 
 // const fetchCharacter = async (id) => {
 //   const URL = `https://www.superheroapi.com/api.php/4192484924171229/${id}`;
