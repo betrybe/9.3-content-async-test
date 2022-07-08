@@ -27,6 +27,7 @@ const fetchCharacter = async (id) => {
 // };
 
 // aiaiaaaaaaa
+const x = 4; 
 
 module.exports = {
   fetchCharacter,
