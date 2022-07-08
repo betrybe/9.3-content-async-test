@@ -26,6 +26,8 @@ const fetchCharacter = async (id) => {
 //     return promise;
 // };
 
+// aiai
+
 module.exports = {
   fetchCharacter,
 };
