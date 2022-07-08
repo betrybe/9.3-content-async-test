@@ -4,6 +4,8 @@ const ENDPOINTS = {
   CHARACTER: 'https://www.superheroapi.com/api.php/4192484924171229/720',
 };
 
+//aa
+
 const TIME_IN_MILLISECONDS = 200;
 
 const fetchSimulator = (url) => {
