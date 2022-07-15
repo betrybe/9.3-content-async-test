@@ -24,7 +24,7 @@ const fetchCharacter = async (id) => {
 //     .catch((error) => error);
 
 //     return promise;
-// };
+// };   
 
 module.exports = {
   fetchCharacter,
